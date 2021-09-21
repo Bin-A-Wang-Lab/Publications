@@ -1,6 +1,6 @@
 [Home](https://bin-a-wang-lab.github.io/Home/)  [News](https://bin-a-wang-lab.github.io/News/)  [Projects](https://bin-a-wang-lab.github.io/Projects/)   [Publications](https://bin-a-wang-lab.github.io/Publications/)  [Resources](https://bin-a-wang-lab.github.io/Resources/)
 
-## Published Journal Articles
+# Published Journal Articles
 
 Viswanathan S*, Abdollahi*, R,  Wang BA, Grefkes C, Fink GR, Daun S (2020). A response-locking protocol to boost sensitivity for fMRI-based neurochronometry. Human Brain Mapping. DOI: 10.1002/hbm.25026
 
@@ -28,7 +28,7 @@ Wang B, Fan Y, Lu M, Li S, Song Z, Peng X, Zhang R, Lin Q, He Y, Wang J, Huang R
 
 Li S, Wang B, Xu P, Lin Q, Gong G, Peng X, Fan Y, He Y, Huang R (2013). ‘Increased Global and Local Efficiency of Human Brain Anatomical Networks Detected with FLAIR-DTI Compared to Non-FLAIR-DTI’ PLoS ONE 8(8): e71229.
 
-## Abstracts in Conferences
+# Abstracts in Conferences
 
 Wang B, Fan Y, Wang J, Li S, Huang R, et. al. ‘Looking into the Differences between Gymnastic Champion and Normal in Structural Cortical Networks’. Annual Meeting of Human Brain Mapping, 2011, Abstract No: 2879
 
